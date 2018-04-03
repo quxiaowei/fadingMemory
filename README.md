@@ -23,5 +23,5 @@
 ![](img/2018-04-01-2.JPG)
 
 #### 4月3号
-[武汉理工“爸爸”教授](./wuhan_papa_professor.pdf)
+[武汉理工陶崇园同学和“爸爸”教授](./wuhan_papa_professor.pdf)
 
