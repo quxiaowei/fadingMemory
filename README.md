@@ -8,10 +8,10 @@
 
 ### 2月
 #### 2月14日
-<img src="img/2018-02-14.JPG" height="100px" title="又一部消失的韩国电影")
+<img src=".img/2018-02-14.JPG" height="100px" title="又一部消失的韩国电影"/>
 
 #### 2月25日
-<img src="img/2018-02-25.JPG">
+<img src="img/2018-02-25.JPG"/>
 ![](img/2018-02-25-16-47.JPG)
 ![](img/2018-02-25-17-14.PNG)
 
